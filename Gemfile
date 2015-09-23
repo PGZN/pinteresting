@@ -13,6 +13,8 @@ gem 'paperclip', '~>4.2'
 gem 'aws-sdk', '< 2.0'
 gem 'jquery-turbolinks'
 gem 'masonry-rails'
+gem 'will_paginate', '~> 3.0.5'
+gem 'will_paginate-bootstrap'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
